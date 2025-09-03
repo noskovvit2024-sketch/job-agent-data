@@ -1,4 +1,4 @@
-﻿Сайт,URL,Метод,Активен
+﻿Сайт,URL поиска (шаблон),Метод,Активен
 hh.ru,https://hh.ru/search/vacancy?spm=a2ty_o01.29997173.0.0.94b6c921KQpew5&text={keywords}&area=1,API,Да
 superjob.ru,https://russia.superjob.ru/vacancy/search/?spm=a2ty_o01.29997173.0.0.94b6c921KQpew5&keywords={keywords}&town=4,Parse,Да
 rabota.ru,https://moscow.rabota.ru/?spm=a2ty_o01.29997173.0.0.94b6c921KQpew5&query={keywords},Parse,Нет
